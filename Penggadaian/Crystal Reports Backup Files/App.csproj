@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{064DD41C-2771-4673-8948-3949D2EA43AA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App</RootNamespace>
+    <AssemblyName>App</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>App.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Design_Form\ADD_AKUN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\ADD_AKUN.Designer.cs">
+      <DependentUpon>ADD_AKUN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\Bunga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\Bunga.Designer.cs">
+      <DependentUpon>Bunga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\DATA_PERUSAHAAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\DATA_PERUSAHAAN.Designer.cs">
+      <DependentUpon>DATA_PERUSAHAAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\DATA_GUDANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\DATA_GUDANG.Designer.cs">
+      <DependentUpon>DATA_GUDANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\DATA_NASABAH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\DATA_NASABAH.Designer.cs">
+      <DependentUpon>DATA_NASABAH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\DATA_PINJAMAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\DATA_PINJAMAN.Designer.cs">
+      <DependentUpon>DATA_PINJAMAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\GANTI_PASSWORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\GANTI_PASSWORD.Designer.cs">
+      <DependentUpon>GANTI_PASSWORD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\HISTORI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\HISTORI.Designer.cs">
+      <DependentUpon>HISTORI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\LAP_PEMBAYARAN_PERCUSTOMERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\LAP_PEMBAYARAN_PERCUSTOMERS.Designer.cs">
+      <DependentUpon>LAP_PEMBAYARAN_PERCUSTOMERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\LAP_TGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\LAP_TGL.Designer.cs">
+      <DependentUpon>LAP_TGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\List Peminjaman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\List Peminjaman.Designer.cs">
+      <DependentUpon>List Peminjaman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\LOGIN_HISTORI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\LOGIN_HISTORI.Designer.cs">
+      <DependentUpon>LOGIN_HISTORI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\NOTIF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\NOTIF.Designer.cs">
+      <DependentUpon>NOTIF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\NOTIF_DETAIL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\NOTIF_DETAIL.Designer.cs">
+      <DependentUpon>NOTIF_DETAIL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\PEMBAYARAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\PEMBAYARAN.Designer.cs">
+      <DependentUpon>PEMBAYARAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\DATA_PERPANJANGAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\DATA_PERPANJANGAN.Designer.cs">
+      <DependentUpon>DATA_PERPANJANGAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_Form\TANGGAL_MERAH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_Form\TANGGAL_MERAH.Designer.cs">
+      <DependentUpon>TANGGAL_MERAH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUtama.Designer.cs">
+      <DependentUpon>FrmUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="global.cs" />
+    <Compile Include="Laporan\CETAK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laporan\CETAK.Designer.cs">
+      <DependentUpon>CETAK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan\kontrak.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kontrak.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Kwitansi_pembayaran.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Kwitansi_pembayaran.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Kwitansi_perpanjangan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Kwitansi_perpanjangan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Lap_Nasabah.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lap_Nasabah.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Lap_Pembayaran_C.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lap_Pembayaran_C.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Lap_Pembayaran_P.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lap_Pembayaran_P.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Lap_Peminjaman.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lap_Peminjaman.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\Lap_Perpanjangan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lap_Perpanjangan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PENCARIAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PENCARIAN.Designer.cs">
+      <DependentUpon>PENCARIAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Design_Form\ADD_AKUN.resx">
+      <DependentUpon>ADD_AKUN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\Bunga.resx">
+      <DependentUpon>Bunga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\DATA_PERUSAHAAN.resx">
+      <DependentUpon>DATA_PERUSAHAAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\DATA_GUDANG.resx">
+      <DependentUpon>DATA_GUDANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\DATA_NASABAH.resx">
+      <DependentUpon>DATA_NASABAH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\DATA_PINJAMAN.resx">
+      <DependentUpon>DATA_PINJAMAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\GANTI_PASSWORD.resx">
+      <DependentUpon>GANTI_PASSWORD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\HISTORI.resx">
+      <DependentUpon>HISTORI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\LAP_PEMBAYARAN_PERCUSTOMERS.resx">
+      <DependentUpon>LAP_PEMBAYARAN_PERCUSTOMERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\LAP_TGL.resx">
+      <DependentUpon>LAP_TGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\List Peminjaman.resx">
+      <DependentUpon>List Peminjaman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\LOGIN_HISTORI.resx">
+      <DependentUpon>LOGIN_HISTORI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\NOTIF.resx">
+      <DependentUpon>NOTIF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\NOTIF_DETAIL.resx">
+      <DependentUpon>NOTIF_DETAIL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\PEMBAYARAN.resx">
+      <DependentUpon>PEMBAYARAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\DATA_PERPANJANGAN.resx">
+      <DependentUpon>DATA_PERPANJANGAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_Form\TANGGAL_MERAH.resx">
+      <DependentUpon>TANGGAL_MERAH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUtama.resx">
+      <DependentUpon>FrmUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\CETAK.resx">
+      <DependentUpon>CETAK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\kontrak.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>kontrak.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Kwitansi_pembayaran.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Kwitansi_pembayaran.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Kwitansi_perpanjangan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Kwitansi_perpanjangan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Lap_Nasabah.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Lap_Nasabah.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Lap_Pembayaran_C.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Lap_Pembayaran_C.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Lap_Pembayaran_P.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Lap_Pembayaran_P.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Lap_Peminjaman.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Lap_Peminjaman.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\Lap_Perpanjangan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Lap_Perpanjangan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PENCARIAN.resx">
+      <DependentUpon>PENCARIAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\icons8-add-file-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\icons8-ai-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\icons8-money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\icons8-notification-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\icons8-shutdown-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\icons8-user-account-96.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

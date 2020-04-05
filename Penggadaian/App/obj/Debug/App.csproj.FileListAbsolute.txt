@@ -1,0 +1,373 @@
+E:\Job\pegadaian\App\App\bin\Debug\App.exe.config
+E:\Job\pegadaian\App\App\bin\Debug\App.exe
+E:\Job\pegadaian\App\App\bin\Debug\App.pdb
+E:\Job\pegadaian\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\Job\pegadaian\App\App\obj\Debug\App.Properties.Resources.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\Job\pegadaian\App\App\obj\Debug\App.exe
+E:\Job\pegadaian\App\App\obj\Debug\App.pdb
+E:\Job\pegadaian\App\App\obj\Debug\App.FrmUtama.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.PERPANJANGAN.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+E:\Job\pegadaian\App\App\obj\Debug\App.Design_Form.LOGIN.resources
+E:\Job\pegadaian\New folder\App\App\bin\Debug\App.exe.config
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.exe
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.pdb
+E:\Job\pegadaian\New folder\App\App\bin\Debug\App.exe
+E:\Job\pegadaian\New folder\App\App\bin\Debug\App.pdb
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.LOGIN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.FrmUtama.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Properties.Resources.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.Bunga.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.PENCARIAN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Laporan.CETAK.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.NOTIF.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.HISTORI.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+F:\Tugas Akhir Rio\App\bin\Debug\App.exe.config
+F:\Tugas Akhir Rio\App\obj\Debug\App.exe
+F:\Tugas Akhir Rio\App\obj\Debug\App.pdb
+F:\Tugas Akhir Rio\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.Bunga.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.HISTORI.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LOGIN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.NOTIF.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.FrmUtama.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Laporan.CETAK.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.PENCARIAN.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.Properties.Resources.resources
+F:\Tugas Akhir Rio\App\obj\Debug\App.csproj.GenerateResource.Cache
+F:\Tugas Akhir Rio\App\bin\Debug\App.exe
+F:\Tugas Akhir Rio\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\App.exe.config
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.exe
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\App.exe
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.Bunga.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.HISTORI.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LOGIN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.NOTIF.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.FrmUtama.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Laporan.CETAK.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.PENCARIAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TugasAkhir\Tugas Akhir Rio\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\Job\pegadaian\New folder\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\App.exe.config
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.exe
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\App.exe
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.Bunga.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.HISTORI.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.LOGIN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.NOTIF.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.FrmUtama.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Laporan.CETAK.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.PENCARIAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TugasAkhir\New\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.exe.config
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.exe
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.exe
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.Bunga.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.HISTORI.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LOGIN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.NOTIF.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.FrmUtama.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Laporan.CETAK.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.PENCARIAN.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TugasAkhir\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.exe.config
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.exe
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.pdb
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.exe
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.pdb
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.Bunga.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.HISTORI.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LOGIN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.NOTIF.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.FrmUtama.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Laporan.CETAK.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.PENCARIAN.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Properties.Resources.resources
+E:\Job\pegadaian\New folder\App\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.exe.config
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.exe
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.pdb
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.exe
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.Bunga.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.HISTORI.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LOGIN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.NOTIF.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.FrmUtama.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Laporan.CETAK.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.PENCARIAN.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\APLIKASI OKE KOMPUTER DEKSTOP\APLIKASI OKE KOMPUTER DEKSTOP\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\App.exe.config
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.exe
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.pdb
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\App.exe
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\oke\App\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.Bunga.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.HISTORI.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.LOGIN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.NOTIF.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.FrmUtama.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Laporan.CETAK.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.PENCARIAN.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\oke\App\obj\Debug\App.csproj.GenerateResource.Cache
+E:\Job\pegadaian\New folder\App\APP\App\bin\Debug\App.exe.config
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.exe
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.pdb
+E:\Job\pegadaian\New folder\App\APP\App\bin\Debug\App.exe
+E:\Job\pegadaian\New folder\App\APP\App\bin\Debug\App.pdb
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.ADD_AKUN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.Bunga.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.DATA_PERUSAHAAN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.DATA_GUDANG.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.DATA_NASABAH.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.DATA_PINJAMAN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.GANTI_PASSWORD.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.HISTORI.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.LAP_PEMBAYARAN_PERCUSTOMERS.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.LAP_TGL.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.List_Peminjaman.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.LOGIN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.LOGIN_HISTORI.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.NOTIF.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.NOTIF_DETAIL.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.PEMBAYARAN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.DATA_PERPANJANGAN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Design_Form.TANGGAL_MERAH.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.FrmUtama.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Laporan.CETAK.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.PENCARIAN.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.Properties.Resources.resources
+E:\Job\pegadaian\New folder\App\APP\App\obj\Debug\App.csproj.GenerateResource.Cache
